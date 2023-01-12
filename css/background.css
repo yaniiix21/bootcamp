@@ -1,0 +1,14 @@
+body{
+    background-image: url(img/index1.jpg);
+    background-repeat: repeat;
+    background-position: bottom left;
+    background-attachment: fixed;
+} 
+h1, p{
+    color: brown;
+}
+ul{
+    list-style-type: armenian;
+}
+
+

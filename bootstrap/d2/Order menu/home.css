@@ -1,0 +1,23 @@
+table,th,td{
+    text-align: center;
+    border: 1px solid gray;
+}
+  .text-start:hover{
+    background-color: gray;
+  }
+footer{
+    background-color: black;
+    color: white;
+}
+#carousel{
+    background-color: black;
+}
+#question{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.accordion{
+    background-color: black;
+}

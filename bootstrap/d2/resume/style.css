@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    background-color: #C58940;
+    font-family: 'Raleway';
+}
+
+.col-md-3{
+    background-color: #FFFBAC;
+}
+.col-md-8{
+    color: #F8F988;
+}
+h1{
+    color: #FFFBAC;
+}
+h5{
+    color: #C58940;
+}
+
+
+.fa-facebook-f{
+    color: #0002A1;
+    font-size: 2rem;
+    padding: 5px;
+}
+.fa-twitter{
+    color: #332FD0;
+    font-size: 2rem;
+    padding: 5px;
+}
+.fa-instagram{
+    color: #FF7000;
+    font-size: 2rem;
+    padding: 5px;
+}
+.fa-pinterest-p{
+    color: #850000;
+    font-size: 2rem;
+    padding: 5px;
+}
+.fa-linkedin-in{
+    color: skyblue;
+    font-size: 2rem;
+    padding: 5px;
+}
+.fa-youtube{
+    color: #DC0000;
+    font-size: 2rem;
+    padding: 5px;
+}

@@ -1,0 +1,66 @@
+body{
+    /* margin:0px;  */
+    font-family:'Comic Sans MS'
+}
+#navBar{
+    /* width:100%;  */
+    text-align:center; 
+    background-color: rgb(70, 130, 180); 
+    color: white; 
+    /* padding-top: 5px;
+     padding-bottom: 5px; */
+}
+#ministry{
+    text-align:center;
+}
+
+#logo{
+    width:100%; 
+    margin-top:20px
+}
+
+h1{
+    font-size:250%; 
+    color:rgb(70, 130, 180)
+}
+#mainBody{
+    display: flex; justify-content: center; align-items: flex-end
+}
+#huellImg{
+    width:350px; margin-right: 20px;
+}
+#freeHuell{
+    font-size:200%; color:rgb(70, 130, 180);
+}
+#saveHuell{
+    font-size: 200%;
+    color: rgb(255, 0, 216);
+}
+/* #preFooter{
+    display:flex; 
+    justify-content: center; 
+    align-items: flex-start; 
+    margin-top: 20px
+} */
+#crossImg{
+    width:120px;
+}
+
+#other{
+    text-align:center; list-style-position: inside;
+}
+li{
+    margin-left: 0px; 
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+ul{
+    list-style-position: outside;
+}
+footer{
+    color:rgb(160, 160, 160); font-size: 75%; text-align: center; margin-top: 50px
+}
+#links{
+    color:rgb(160, 160, 160);
+}
